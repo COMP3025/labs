@@ -1,0 +1,8 @@
+README.rst
+setup.py
+filtros_streamlit/__init__.py
+filtros_streamlit.egg-info/PKG-INFO
+filtros_streamlit.egg-info/SOURCES.txt
+filtros_streamlit.egg-info/dependency_links.txt
+filtros_streamlit.egg-info/requires.txt
+filtros_streamlit.egg-info/top_level.txt
